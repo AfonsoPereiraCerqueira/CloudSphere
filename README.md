@@ -3,7 +3,8 @@
 Welcome to **CloudSphere**, a full-stack web application for managing and selling VPS/Cloud services! This project is built using modern technologies to provide a fast, secure, and responsive user experience. 🚀
 
 > [!NOTE]
-> **Educational Project:** This is my first full-stack project, developed primarily for educational purposes. As such, it may contain bugs and might not be fully updated with the latest software versions or functionalities.
+> **Legacy Learning Project:** This project was originally created 2 years ago as my first full-stack experience and has recently been made public. 
+> Please note that it may contain bugs and reflects the dependencies and functionalities available at the time of development.
 
 ## ✨ Features
 
