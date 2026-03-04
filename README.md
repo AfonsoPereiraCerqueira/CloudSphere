@@ -46,6 +46,6 @@ CloudSphere/
 │   ├── public/          # Static assets (images, fonts, etc.)
 │   └── vite.config.js   # Vite configuration
 └── README.md            # Project documentation
-
-> [!NOTE]
-> *I am currently dedicating my full energy to my academic curriculum and mastering Java. While I’m not starting new personal projects right now, I’m constantly building internal labs and university assignments.*
+```
+> [!WARNING]
+> **Educational Project:** This is my first full-stack project, developed primarily for educational purposes. As such, it may contain bugs and might not be fully updated with the latest software versions or functionalities.
