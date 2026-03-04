@@ -2,6 +2,9 @@
 
 Welcome to **CloudSphere**, a full-stack web application for managing and selling VPS/Cloud services! This project is built using modern technologies to provide a fast, secure, and responsive user experience. 🚀
 
+> [!NOTE]
+> **Educational Project:** This is my first full-stack project, developed primarily for educational purposes. As such, it may contain bugs and might not be fully updated with the latest software versions or functionalities.
+
 ## ✨ Features
 
 - 🔐 **JWT Authentication**: Secure login and user management with JSON Web Tokens.
@@ -47,5 +50,3 @@ CloudSphere/
 │   └── vite.config.js   # Vite configuration
 └── README.md            # Project documentation
 ```
-> [!WARNING]
-> **Educational Project:** This is my first full-stack project, developed primarily for educational purposes. As such, it may contain bugs and might not be fully updated with the latest software versions or functionalities.
